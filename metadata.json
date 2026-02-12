@@ -1,0 +1,5 @@
+{
+  "name": "Pasta Phim",
+  "description": "A premium, dark-themed movie streaming application featuring smart search, watch history, and auto-next capabilities, powered by the KKPhim API.",
+  "requestFramePermissions": []
+}
